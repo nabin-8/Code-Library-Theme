@@ -1,0 +1,21 @@
+{
+  "name": "code-library-theme",
+  "displayName": "Code Library Theme",
+  "description": "The Code Library Theme offers a visually sophisticated and developer-friendly environment for coders. With a sleek and modern design, it provides a dark color scheme that reduces eye strain during prolonged coding sessions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "code library theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code library theme-color-theme.json"
+      }
+    ]
+  }
+}
