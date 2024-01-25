@@ -2,8 +2,9 @@
   "name": "code-library-theme",
   "displayName": "Code Library Theme",
   "description": "The Code Library Theme offers a visually sophisticated and developer-friendly environment for coders. With a sleek and modern design, it provides a dark color scheme that reduces eye strain during prolonged coding sessions.",
-  "version": "1.0.0",
-  "publisher": "Nabin Acharya",
+  "version": "1.0.1",
+  "publisher": "NabinAcharya",
+  "icon": "src/ca.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/nabin-8/Code-Library-Theme"
